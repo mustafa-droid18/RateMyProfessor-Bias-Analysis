@@ -44,7 +44,6 @@ This project investigates **gender bias**, **perceived difficulty**, and **tag-d
 │   └── IDS_Capstone_Project_Final.py
 ├── reports/
 │   ├── IDS Capstone Project Report.pdf
-│   ├── AFYD Guidelines.pdf
 │   └── IDS capstone project spec sheet.pdf
 ├── README.md
 └── .gitignore
@@ -72,3 +71,6 @@ scipy
 statsmodels
 imbalanced-learn
 ```
+## 📄 Final Project Report
+[Final Report (PDF)](./reports/IDS%20Capstone%20Project%20Report.pdf)
+
