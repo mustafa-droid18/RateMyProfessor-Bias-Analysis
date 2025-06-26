@@ -30,6 +30,13 @@ This project investigates **gender bias**, **perceived difficulty**, and **tag-d
 | **Q10:** Are there university-level differences in professor ratings? | Yes. Significant variation across universities. Some universities consistently had higher or lower-rated professors. Regional patterns were also observed. |
 
 ---
+## Data Files
+
+- `rmpCapstoneNum.csv`: Numeric professor ratings and metadata
+- `rmpCapstoneQual.csv`: Qualitative data (field, university, state)
+- `rmpCapstoneTags.csv`: Frequency of tags assigned to professors
+
+All files include 89,893 entries representing individual professors.
 
 ## 📁 Project Structure
 ```
