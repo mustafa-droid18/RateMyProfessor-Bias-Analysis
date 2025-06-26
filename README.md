@@ -32,21 +32,23 @@ This project investigates **gender bias**, **perceived difficulty**, and **tag-d
 ---
 
 ## 📁 Project Structure
+```
 📦 Assessing-Bias-Professor-Ratings
 ├── data/
-│ ├── rmpCapstoneNum.csv
-│ ├── rmpCapstoneQual.csv
-│ └── rmpCapstoneTags.csv
+│   ├── rmpCapstoneNum.csv
+│   ├── rmpCapstoneQual.csv
+│   └── rmpCapstoneTags.csv
 ├── notebooks/
-│ └── Preproceesing.ipynb
+│   └── Preproceesing.ipynb
 ├── src/
-│ └── IDS_Capstone_Project_Final.py
+│   └── IDS_Capstone_Project_Final.py
 ├── reports/
-│ ├── IDS Capstone Project Report.pdf
-│ ├── AFYD Guidelines.pdf
-│ └── IDS capstone project spec sheet.pdf
+│   ├── IDS Capstone Project Report.pdf
+│   ├── AFYD Guidelines.pdf
+│   └── IDS capstone project spec sheet.pdf
 ├── README.md
 └── .gitignore
+```
 
 
 ---
