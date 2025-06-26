@@ -53,7 +53,6 @@ All files include 89,893 entries representing individual professors.
 │   ├── IDS Capstone Project Report.pdf
 │   └── IDS capstone project spec sheet.pdf
 ├── README.md
-└── .gitignore
 ```
 
 
