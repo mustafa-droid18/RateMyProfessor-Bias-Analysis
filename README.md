@@ -45,8 +45,6 @@ All files include 89,893 entries representing individual professors.
 │   ├── rmpCapstoneNum.csv
 │   ├── rmpCapstoneQual.csv
 │   └── rmpCapstoneTags.csv
-├── notebooks/
-│   └── Preproceesing.ipynb
 ├── src/
 │   └── IDS_Capstone_Project_Final.py
 ├── reports/
